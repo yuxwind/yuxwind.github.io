@@ -29,15 +29,11 @@ categories:
   
 ##锻炼
 在国内主要是跑步，五月北京一次半马完赛。
-{r, out.width = "400px"}
-knitr::include_graphics("../images/running.png")
-knitr::include_graphics("../images/marathon.png")
 
-![跑步](../images/running.png)
-![半马](../images/marathon.png)  
+<img src="../images/running.png" width="300">
+<img src="../images/marathon.png" width="300">   
 在U.U 主要是keep和gym，数据不太全。
-knitr::include_graphics("../images/Keep.png")
-![keep](../images/Keep.png)
+<img src="../images/Keep.png" width="300">  
 目前平均一周一次，经常各种被打断，希望新年做更好的规划。
 
 ##自我管理
@@ -52,7 +48,7 @@ knitr::include_graphics("../images/Keep.png")
 * 晨间日记  
 考试结束后，开始写晨间日记。它的可操作性非常强，建议用三分钟，但我一般用八九分钟，相比于前两个，调整的作用很明显。其实，相当长一段时间处于焦虑的忙碌当中，整理总被排到优先级的末尾，缺少审视，无从调整。早上内心安静，记录昨天的同时，调整今天的计划，关注到什么，写什么，很灵活。大概是每天清空，当下的事情当即做，拖延症减轻很多，近期计划完成得还可以。情绪也平和很多，没太多大起大落，我猜是早上，都会把关注点重新校准到感兴趣的事上，不会在情绪里游离太久。  
 
-![aTimeLogger](../images/aTimeLogger.png)  
+<img src="../images/aTimeLogger.png" width="300">  
 总的说来，准确地自我评估和计划难度很大，及时总结和调整更有效。
 
 ##其他
