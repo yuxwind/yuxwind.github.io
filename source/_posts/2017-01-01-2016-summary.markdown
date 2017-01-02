@@ -29,9 +29,14 @@ categories:
   
 ##锻炼
 在国内主要是跑步，五月北京一次半马完赛。
+{r, out.width = "400px"}
+knitr::include_graphics("../images/running.png")
+knitr::include_graphics("../images/marathon.png")
+
 ![跑步](../images/running.png)
 ![半马](../images/marathon.png)  
 在U.U 主要是keep和gym，数据不太全。
+knitr::include_graphics("../images/Keep.png")
 ![keep](../images/Keep.png)
 目前平均一周一次，经常各种被打断，希望新年做更好的规划。
 
