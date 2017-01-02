@@ -31,9 +31,10 @@ categories:
 在国内主要是跑步，五月北京一次半马完赛。
 
 <img src="../images/running.png" width="300">
+<img src="../images/Keep.png" width="300">  
 <img src="../images/marathon.png" width="300">   
 在U.U 主要是keep和gym，数据不太全。
-<img src="../images/Keep.png" width="300">  
+
 目前平均一周一次，经常各种被打断，希望新年做更好的规划。
 
 ##自我管理
