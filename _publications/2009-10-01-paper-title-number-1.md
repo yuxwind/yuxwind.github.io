@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Compass: Spatio temporal sentiment analysis of US election what twitter says!"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2017-10-01-compass-kdd
+excerpt: 'This paper is about number 1. The number 2 is left for future work.'
+date: 2017-08-13
+venue: 'SIG-KDD'
+paperurl: 'http://yuxwind.github.io/files/compass-kdd.pdf'
+citation: 'Paul, D., Li, F., Teja, M.K., Yu, X. and Frost, R., 2017, August. &quot; Compass: Spatio temporal sentiment analysis of US election what twitter says!. &quot; <i> In Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining </i> (pp. 1585-1594).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://yuxdinw.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Paul, D., Li, F., Teja, M.K., Yu, X. and Frost, R., 2017, August. &quot; Compass: Spatio temporal sentiment analysis of US election what twitter says!. &quot; <i> In Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining </i> (pp. 1585-1594).
