@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xin Yu"
-  avatar           : "profile.png" # TODO: adding a photo here.
+  avatar           : "bio-photo.jpg" # TODO: adding a photo here.
   bio              : "Ph.D. Student @ University of Utah"
   location         : "Salt Lake City"
   employer         :
