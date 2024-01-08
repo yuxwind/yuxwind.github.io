@@ -15,7 +15,7 @@ My competitive edge in tackling this challenging agenda comes from my strong bac
 
 News
 =====
-12/2023: One paper on 'Streaming Factor Trajectory Learning for Temporal Tensor Decomposition' is presented on NeurIPS 2023.
+12/2023: One paper on 'Streaming Factor Trajectory Learning for Temporal Tensor Decomposition' is presented on NeurIPS 2023. \
 05/2023: One paper on 'Getting away with more network pruning: From sparsity to geometry and linear regions' is presented on CPAIOR 2023.
 
 11/2022: Two papers on 'Batch Multi-Fidelity Active Learning with Budget Constraints' and 'Recall Distortion in Neural Network Pruning and the Undecayed Pruning Algorithm' are presented to NeurIPS 2022.
