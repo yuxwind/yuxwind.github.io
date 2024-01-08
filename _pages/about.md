@@ -21,10 +21,10 @@ News
 07/2022:  One paper is presented on ICML 2022. \
 12/2021: One paper is presented on 3DV 2021. \
 10/2021: One paper is accepted to NeurIPS 2021. \
-01/2020: One paper is accepted to ACCV’2020. \
+11/2020: One paper is accepted to ACCV’2020. \
 10/2018: One paper is presented on IROS 2018. \
 06/2018: One paper is presented on CVPR 2018. \
-<--- 08/2017: One paper on 'Compass: Spatio temporal sentiment analysis of US election what twitter says!' is presented on KDD 2017 --->
+<!--- 08/2017: One paper on 'Compass: Spatio temporal sentiment analysis of US election what twitter says!' is presented on KDD 2017 --->
 
 
 Education
