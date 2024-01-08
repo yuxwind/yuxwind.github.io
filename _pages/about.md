@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 I am a Ph.D. student in the School of Computing at the University of Utah, advised by Dr. Shandian Zhe and Prof. Srikumar Ramalingam. My research focuses primarily on developing reliable and economical AI techniques for large-scale AI models in real-world scenarios. This involves efficient computation, economic data abstraction and collection, and bias reduction and robustness enhancement in AI systems. 
-My competitive edge in tackling this challenging agenda comes from my strong background in combinatorial optimization and Bayesian machine learning, my fundamental understanding of deep neural network expressiveness, and my expertise in building novel network architectures.
+I tackle these challenges with my background in combinatorial optimization, Bayesian machine learning, deep neural network expressiveness, and computer vision.
 
 News
 =====
