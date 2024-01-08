@@ -33,7 +33,7 @@ News
 
 06/2018: One paper on 'Learning strict identity mappings in deep residual networks' is presented on CVPR 2018.
 
-# 08/2017: One paper on 'Compass: Spatio temporal sentiment analysis of US election what twitter says!' is presented on KDD 2017
+% 08/2017: One paper on 'Compass: Spatio temporal sentiment analysis of US election what twitter says!' is presented on KDD 2017
 
 
 Education
