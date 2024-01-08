@@ -57,4 +57,5 @@ Teaching
   
 Service and leadership
 ======
-* PC Member / Reviewers for RIOS
+* Conference REviewer: ICLR 2024, ICML 2023, NeurIPS 2023, NeurIPS 2022, IROS 2021, ICVGIP 2021
+* Program Committee: ICDM Workshop 2023
