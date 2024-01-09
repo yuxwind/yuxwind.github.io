@@ -7,19 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin Yu"
+title                    : "Mingqi's Home"
 title_separator          : "-"
-name                     : &name "Xin Yu"
-description              : &description "Ph.D. @ University of Utah"
-url                      : https://yuxwind.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mingqi Gao"
+description              : &description "personal description"
+url                      : https://gaomingqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"mlciv/yuxwind.github.io"
+repository               : "gaomingqi/gaomingqi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -62,7 +60,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "icon.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -75,20 +73,19 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-116082359-1
+#baidu-analysis: 75eada7fa276be54ab517633dad894f3
 
 
 # Site Author
 author:
-  name             : "Xin Yu"
-  avatar           : "bio-photo.jpg" # TODO: adding a photo here.
-  bio              : "Ph.D. Student @ University of Utah"
-  location         : "Salt Lake City"
+  name             : "Mingqi Gao"
+  avatar           : "profile.png"
+  bio              : "Research student @ Chongqing University"
+  location         : "Chongqing, China"
   employer         :
-  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=tWAfvQsAAAAJ"
-  email            : yuxwind@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=ECCd0hwAAAAJ&hl=en"
+  email            : "im.mingqi@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yuxwind"
+  github           : "gaomingqi"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
-  #orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Xiny_wind"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -129,23 +125,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -259,7 +254,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

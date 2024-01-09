@@ -15,7 +15,26 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({
+	  tex2jax: {
+	    inlineMath: [ ['$','$'], ['\\(','\\)'] ], 
+	    displayMath: [ ['$$','$$'], ['\\[','\\]'] ], 
+	    skipTags: ["script","noscript","style","textarea","pre","code"]
+	  }
+	});
+</script>
+
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_HTML">
+</script>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<style>
+.clustrmapcls{ width:214px; height:120px; margin:50px;} 
+</style>
+
