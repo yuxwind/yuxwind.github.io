@@ -73,7 +73,7 @@
   }
 
   a {
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
@@ -399,26 +399,3 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
-.image-wrap {
-	position: relative;
-	margin-bottom: 2em;
-	&:after {
-		content: " ";
-		display: block;
-		position: absolute;
-		bottom: -1px;
-		left: 22%;
-		width: 0;
-		height: 0;
-		border: 20px solid transparent;
-		border-bottom-color: #fff;
-	}
-	img {
-		width: 100%;
-		height: auto;
-		-ms-interpolation-mode: bicubic;
-	}
-}
-
-
