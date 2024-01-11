@@ -5,7 +5,7 @@ type: "Graduate Course"
 permalink: /teaching/2020-spring-cv-tk
 venue: "University of Utah, School of Computing"
 date: 2019-02-01
-location: "City, Country"
+location: "SLC, US"
 ---
 
 
