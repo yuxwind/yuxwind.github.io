@@ -18,7 +18,8 @@ My research  interests lie in the intersection of Deep Learning and Optimization
 
 <figure>
 <p align="center">
-<img src="./../images/research_statement_fig.jpg" alt="drawing" width="400"/> <b> Tree and Sun </b><img>
+<img src="./../images/research_statement_fig.jpg" alt="drawing" width="400"/> 
+<b> Tree and Sun </b><img>
 </p>
 </figure>  
 
