@@ -19,7 +19,7 @@ My research  interests lie in the intersection of Deep Learning and Optimization
 <figure>
 <p align="center">
 <img src="./../images/research_statement_fig.jpg" alt="drawing" width="400"/> 
-<figcaption class="figure-caption text-center"> Research Roadmap.</figcaption>
+<!--- <figcaption class="figure-caption text-center"> Research Roadmap.</figcaption> --->
 </p>
 </figure>  
 
