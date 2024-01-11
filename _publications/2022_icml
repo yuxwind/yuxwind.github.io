@@ -1,0 +1,31 @@
+---
+title: "The Combinatorial Brain Surgeon: Pruning Weights That Cancel One Another in Neural Networks"
+collection: publications
+permalink: /publication/2022_icml
+
+date: 2022
+venue: 'ICML'
+paperurl: 'http://yuxwind.github.io/files/2022_icml.pdf'
+citation: 'Yu X.*, Serra T.*, Ramalingam S., Zhe S. The Combinatorial Brain Surgeon: Pruning
+Weights That Cancel One Another in Neural Networks. In International Conference on
+Machine Learning (ICML 2022).'
+---
+<!--- excerpt: 'This paper is about the number 3. The number 4 is left for future work.' --->
+<!--- This paper is about the number 3. The number 4 is left for future work. --->
+
+<!--- [Download paper here](http://yuxwind.github.io/files/pruning-nips2021.pdf) 
+
+Recommended citation: Serra, T., Kumar, A. and Ramalingam, S., 2021. Scaling Up Exact Neural Network
+Compression by ReLU Stability. arXiv preprint arXiv:2102.07804. --->
+[Paper](http://yuxwind.github.io/files/pruning-nips2021.pd) 
+
+Bibtex:
+```
+@inproceedings{yu2022cbs,
+  title={The Combinatorial Brain Surgeon:
+Pruning Weights That Cancel One Another in Neural Networks},
+  author={{Xin Yu*} and {Thiago Serra*} and {Ramalingam Srikumar} and {Shandian  Zhe}},
+  booktitle={ICML},
+  year={2022}
+}
+```
