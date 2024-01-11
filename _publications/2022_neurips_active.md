@@ -3,7 +3,7 @@ title: "Batch Multi-Fidelity Active Learning with Budget Constraints"
 collection: publications
 permalink: /publication/2022_neurips_active
 
-date: 2022
+date: 2022-11-28
 venue: 'NeurIPS'
 paperurl: 'http://yuxwind.github.io/files/2022_neurips_active.pdf'
 citation: 'Li, S., Phillips, J. M., Yu, X., Kirby, R., & Zhe, S. Batch Multi-Fidelity Active Learning with Budget Constraints. Advances in Neural Information Processing Systems (NeurIPS 2022).'

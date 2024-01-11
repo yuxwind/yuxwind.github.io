@@ -3,7 +3,7 @@ title: "Getting away with more network pruning: From sparsity to geometry and li
 collection: publications
 permalink: /publication/2023_cpaior
 
-date: 2023
+date: 2023-05-29
 venue: 'CPAIOR'
 paperurl: 'http://yuxwind.github.io/files/2023_cpaior.pdf'
 citation: 'Yu X.*, Serra T.*, Ramalingam S., Zhe S. The Combinatorial Brain Surgeon: Pruning

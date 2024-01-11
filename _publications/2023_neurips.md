@@ -3,7 +3,7 @@ title: "Streaming Factor Trajectory Learning for Temporal Tensor Decomposition"
 collection: publications
 permalink: /publication/2023_neurips
 
-date: 2023
+date: 2023-12-9
 venue: 'NeurIPS'
 paperurl: 'http://yuxwind.github.io/files/2023_neurips'
 citation: ''
