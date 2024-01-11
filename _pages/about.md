@@ -19,9 +19,10 @@ My research  interests lie in the intersection of Deep Learning and Optimization
 <figure>
 <p align="center">
 <img src="./../images/research_statement_fig.jpg" alt="drawing" width="400"/>
-</p>
 <figcaption>Research Roadmap</figcaption>
+</p>
 </figure>  
+
 News
 =====
 \[12/2023\]: Our paper [Streaming Factor Trajectory Learning for Temporal Tensor Decomposition](https://neurips.cc/virtual/2023/poster/71689) will be presented on NeurIPS 2023. \
