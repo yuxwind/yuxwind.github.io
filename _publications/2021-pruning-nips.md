@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-pruning-nips
 
 date: 2021-10-01
-venue: 'NeurIPS 2021'
+venue: 'NeurIPS'
 paperurl: 'http://yuxwind.github.io/files/pruning-nips2021.pdf'
 citation: 'Serra, T., Kumar, A. and Ramalingam, S., 2021. Scaling Up Exact Neural Network Compression by ReLU Stability. arXiv preprint arXiv:2102.07804.'
 ---
