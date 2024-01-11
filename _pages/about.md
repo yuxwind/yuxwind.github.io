@@ -14,10 +14,12 @@ I am a final-year Ph.D. student in [Kahlert School of Computing](https://www.cs.
 
 My research  interests lie in the intersection of Deep Learning and Optimization and focus on reliable and economical AI techniques for large-scale AI models in real-world scenarios. Specifically, I'm exploring efficient computation, economic data abstraction and collection, and bias reduction and robustness enhancement in AI systems. Drawing upon my expertise in combinatorial optimization, Bayesian machine learning, and deep neural network expressiveness, I aim to address these multifaceted challenges in computer vision and physical simulation applications. This interdisciplinary approach allows me to forge new pathways in creating more efficient, equitable, and powerful AI technologies.
 
-![Research Roadmap](./../images/research_statement_fig.jpg) 
+<!--- ![Research Roadmap](./../images/research_statement_fig.jpg)  --->
 
-<img src="./../images/research_statement_fig.jpg" alt="drawing" width="200"/>
-
+<p align="center">
+<img src="./../images/research_statement_fig.jpg" alt="drawing" width="400"/>
+</p>
+  
 News
 =====
 \[12/2023\]: Our paper [Streaming Factor Trajectory Learning for Temporal Tensor Decomposition](https://neurips.cc/virtual/2023/poster/71689) will be presented on NeurIPS 2023. \
