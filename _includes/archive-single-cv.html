@@ -39,7 +39,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
-    <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('post.paperurl','_blank')">Paper</button>
+    <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('{{post.paperurl}}','_blank')">Paper</button>
     </li>
  </article>
 </div>
