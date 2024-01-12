@@ -6,7 +6,7 @@ permalink: /publication/2022_neurips_active
 date: 2022-11-28
 venue: 'NeurIPS'
 paperurl: 'http://yuxwind.github.io/files/2022_neurips_active.pdf'
-citation: 'Li, S., Phillips, J. M.,  <b>Yu, X.*<\b>, Kirby, R., & Zhe, S. Batch Multi-Fidelity Active Learning with Budget Constraints. Advances in Neural Information Processing Systems (NeurIPS 2022).'
+citation: 'Li, S., Phillips, J. M.,  <b>Yu, X.<\b>, Kirby, R., & Zhe, S. Batch Multi-Fidelity Active Learning with Budget Constraints. Advances in Neural Information Processing Systems (NeurIPS 2022).'
 ---
 <!--- excerpt: 'This paper is about the number 3. The number 4 is left for future work.' --->
 <!--- This paper is about the number 3. The number 4 is left for future work. --->
