@@ -22,7 +22,7 @@ Bibtex:
 ```
 @inproceedings{good2022recall,
   title={Recall Distortion in Neural Network Pruning and the Undecayed Pruning Algorithm},
-  author={Good*, Aidan and Lin*, Jiaqi and Yu*, Xin and Sieg, Hannah and Ferguson, Mikey and Zhe, Shandian and Wieczorek, Jerzy and Serra, Thiago},
+  author={Good, Aidan* and Lin, Jiaqi* and Yu, Xin* and Sieg, Hannah and Ferguson, Mikey and Zhe, Shandian and Wieczorek, Jerzy and Serra, Thiago},
   booktitle={NeurIPS},
   year={2022}
 }

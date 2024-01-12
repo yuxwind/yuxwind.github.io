@@ -6,9 +6,7 @@ permalink: /publication/2023_cpaior
 date: 2023-05-29
 venue: 'CPAIOR'
 paperurl: 'http://yuxwind.github.io/files/2023_cpaior.pdf'
-citation: 'Yu X.*, Serra T.*, Ramalingam S., Zhe S. The Combinatorial Brain Surgeon: Pruning
-Weights That Cancel One Another in Neural Networks. In International Conference on
-Machine Learning (ICML 2022).'
+citation: 'Cai J., Nguyen K., Shrestha N., Good A., Tu R., <b>Yu X.</b>, & Serra T. Getting away with more network pruning: From sparsity to geometry and linear regions. International Confer- ence on Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2023)' 
 ---
 <!--- excerpt: 'This paper is about the number 3. The number 4 is left for future work.' --->
 <!--- This paper is about the number 3. The number 4 is left for future work. --->

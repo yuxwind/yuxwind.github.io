@@ -6,7 +6,7 @@ permalink: /publication/2023_neurips
 date: 2023-12-9
 venue: 'NeurIPS'
 paperurl: 'http://yuxwind.github.io/files/2023_neurips'
-citation: 'Fang, S., Yu, X., Li, S., Wang, Z., Kirby R., & Zhe, S. Streaming Factor Trajectory Learning for Temporal Tensor Decomposition. Advances in Neural Information Processing Systems (NeurIPS 2023)'
+citation: 'Fang, S., <b>Yu, X.</b>, Li, S., Wang, Z., Kirby R., & Zhe, S. Streaming Factor Trajectory Learning for Temporal Tensor Decomposition. Advances in Neural Information Processing Systems (NeurIPS 2023)'
 ---
 <!--- excerpt: 'This paper is about the number 3. The number 4 is left for future work.' --->
 <!--- This paper is about the number 3. The number 4 is left for future work. --->
