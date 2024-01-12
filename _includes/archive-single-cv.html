@@ -38,9 +38,12 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
-      <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('{{post.paperurl}}','_blank')">Paper</button><
-      /p> {% endif %}
+    {% if post.venue%}
+    <p class="archive__item-excerpt" itemprop="description">
+      {{ post.citation }}
+      <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('{{post.paperurl}}','_blank')">Paper</button>
+      </p> 
+      {% endif %}
     
     </li>
  </article>
