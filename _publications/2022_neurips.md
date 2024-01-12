@@ -6,7 +6,7 @@ permalink: /publication/2022_neurips
 date: 2022-11-28
 venue: 'NeurIPS'
 paperurl: 'http://yuxwind.github.io/files/2022_neurips.pdf'
-citation: 'Good A.*, Lin J.*, Yu X.*, Sieg H., Ferguson M., Zhe S., Wieczore J., & Serra T. Recall Ditortion in Neural Network Pruning and the Undecayed Pruning Algorithm. Advances in Neural Information Processing Systems (NeurIPS 2022)'
+citation: 'Good A.*, Lin J.*, <b>Yu X.*</b>, Sieg H., Ferguson M., Zhe S., Wieczore J., & Serra T. Recall Ditortion in Neural Network Pruning and the Undecayed Pruning Algorithm. Advances in Neural Information Processing Systems (NeurIPS 2022)'
 
 ---
 <!--- excerpt: 'This paper is about the number 3. The number 4 is left for future work.' --->
