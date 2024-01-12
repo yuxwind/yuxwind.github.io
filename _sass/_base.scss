@@ -14,6 +14,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  font-size:  $type-size-6;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -79,7 +80,7 @@ del a {
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
   orphans: 3;
   widows: 3;
-  text-align: justify
+  text-align: justify;
 }
 
 /* abbreviations */
