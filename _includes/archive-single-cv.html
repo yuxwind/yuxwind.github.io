@@ -41,7 +41,12 @@
     {% if post.venue%}
     <p class="archive__item-excerpt" itemprop="description">
       {{ post.citation }}
+      {% if post.paperurl %}
       <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('{{post.paperurl}}','_blank')">Paper</button>
+      {% endif %}
+      {% if post.posturl %}
+      <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('{{post.posturl}}','_blank')">Paper</button>
+      {% posturl %}
       </p> 
       {% endif %}
     
