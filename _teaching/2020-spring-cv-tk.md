@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Computer Vision, Spring 2020"
+title: "Teaching Assistant for CS6320 Computer Vision, Spring 2020"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2020-spring-cv-tk
