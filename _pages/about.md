@@ -26,6 +26,7 @@ My research  interests lie in the intersection of Deep Learning and Optimization
 
 News
 =====
+\[01/2024\]: Our paper [Functional Bayesian Tucker Decomposition for Continuous-indexed Tensor Data](https://arxiv.org/pdf/2312.04829.pdf) is accepted by ICLR 2024. \
 \[12/2023\]: Our paper [Streaming Factor Trajectory Learning for Temporal Tensor Decomposition](https://neurips.cc/virtual/2023/poster/71689) will be presented on NeurIPS 2023. \
 \[05/2023\]: Our paper [Getting away with more network pruning: From sparsity to geometry and linear regions](https://arxiv.org/pdf/2301.07966.pdf) will be presented on CPAIOR 2023. \
 \[11/2022\]: Our papers [Batch Multi-Fidelity Active Learning with Budget Constraints]() and [Recall Distortion in Neural Network Pruning and the Undecayed Pruning Algorithm](https://proceedings.neurips.cc/paper_files/paper/2022/file/d3303e0ca98a267164d905bbc7947f88-Paper-Conference.pdf) are presented on NeurIPS 2022. \
