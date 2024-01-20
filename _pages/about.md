@@ -14,6 +14,8 @@ I am a final-year Ph.D. student in [Kahlert School of Computing](https://www.cs.
 
 My research  interests lie in the intersection of Deep Learning and Optimization and focus on reliable and economical AI techniques for large-scale AI models in real-world scenarios. Specifically, I'm exploring efficient computation, economic data abstraction and collection, and bias reduction and robustness enhancement in AI systems. Drawing upon my expertise in combinatorial optimization, Bayesian machine learning, and deep neural network expressiveness, I aim to address these multifaceted challenges in computer vision and physical simulation applications. This interdisciplinary approach allows me to forge new pathways in creating more efficient, equitable, and powerful AI technologies.
 
+For more information, see my full [resume](http://yuxwind.github.io/files/yu_xin_resume.pdf).
+
 <!--- ![Research Roadmap](./../images/research_statement_fig.jpg)  --->
 <!---
 <figure>
