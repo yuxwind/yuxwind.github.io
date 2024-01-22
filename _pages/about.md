@@ -28,7 +28,7 @@ For more information, see my full [resume](http://yuxwind.github.io/files/yu_xin
 
 News
 =====
-\[01/2024\]: Our paper [Multi-Resolution Active Learning of Fourier Neural Operators](https://arxiv.org/pdf/2309.16971.pdf) is accepted by AIStat 2024 (oral). \
+\[01/2024\]: Our paper [Multi-Resolution Active Learning of Fourier Neural Operators](https://arxiv.org/pdf/2309.16971.pdf) is accepted by AISTATS 2024 (oral). \
 \[01/2024\]: Our paper [Functional Bayesian Tucker Decomposition for Continuous-indexed Tensor Data](https://arxiv.org/pdf/2312.04829.pdf) is accepted by ICLR 2024. \
 \[12/2023\]: Our paper [Streaming Factor Trajectory Learning for Temporal Tensor Decomposition](https://neurips.cc/virtual/2023/poster/71689) will be presented on NeurIPS 2023. \
 \[05/2023\]: Our paper [Getting away with more network pruning: From sparsity to geometry and linear regions](https://arxiv.org/pdf/2301.07966.pdf) will be presented on CPAIOR 2023. \
