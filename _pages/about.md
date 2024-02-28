@@ -12,7 +12,8 @@ redirect_from:
 
 I am a final-year Ph.D. student in [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu). I'm now doing research on machine learning and computer vision, under the supervision of [Prof. Shandian Zhe](https://www.cs.utah.edu/~zhe) and [Prof. Srikumar Ramalingam](https://users.cs.utah.edu/~srikumar/). In 2022, I joined the AI for Science group focusing on physical simulation, under the mentorship of [Prof. Shandian Zhe](https://www.cs.utah.edu/~zhe). Prior to this, during my master's studies, I was part of the data group, advised by [Prof. Feifei Li](https://users.cs.utah.edu/~lifeifei/). 
 
-%[Prof. Mike Kirby](https://users.cs.utah.edu/~kirby/) and
+<--- 
+[Prof. Mike Kirby](https://users.cs.utah.edu/~kirby/) and --->
 
 My research  interests lie in the intersection of Deep Learning and Optimization and focus on reliable and economical AI techniques for large-scale AI models in real-world scenarios. Specifically, I'm exploring efficient computation, economic data abstraction and collection, and bias reduction and robustness enhancement in AI systems. Drawing upon my expertise in combinatorial optimization, Bayesian machine learning, and deep neural network expressiveness, I aim to address these multifaceted challenges in computer vision and physical simulation applications. This interdisciplinary approach allows me to forge new pathways in creating more efficient, equitable, and powerful AI technologies.
 
