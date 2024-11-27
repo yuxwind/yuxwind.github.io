@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a final-year Ph.D. student in [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu). I'm now doing research on algorithm and data efficiency , under the supervision of [Prof. Shandian Zhe](https://www.cs.utah.edu/~zhe) and [Prof. Srikumar Ramalingam](https://users.cs.utah.edu/~srikumar/).
+I am a final-year Ph.D. student in [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu). I'm now doing research on algorithm and data efficiency , under the supervision of [Prof. Srikumar Ramalingam](https://users.cs.utah.edu/~srikumar/) and [Prof. Shandian Zhe](https://www.cs.utah.edu/~zhe).
 
 <!---
  In 2022, I joined the AI for Science group focusing on physical simulation, under the mentorship of [Prof. Shandian Zhe](https://www.cs.utah.edu/~zhe). Prior to this, during my master's studies, I was part of the data group, advised by [Prof. Feifei Li](https://users.cs.utah.edu/~lifeifei/). 
